@@ -1,0 +1,4 @@
+*.csv
+pyproject.toml 
+poetry.lock
+.python-version
